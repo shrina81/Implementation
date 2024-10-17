@@ -96,7 +96,7 @@ The app uses the saved model to classify customer queries in real-time. You can 
 • “I need help logging into my account.”
 The model will predict one of the predefined categories based on the input query.
 
-Future Enhancements
+**Future Enhancements**
 
 In the future, the following enhancements are planned:
 •More Categories
