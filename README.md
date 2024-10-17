@@ -38,7 +38,7 @@ To get started, follow these steps to set up the project locally:
 1. Clone the Repository
 :
 git clone
-https://github.com/your-username/customer-query-classifier.git
+https://github.com/shrina81/Implementation.git
 cd customer-query-classifier
 
 2.Set Up a Virtual Environment
